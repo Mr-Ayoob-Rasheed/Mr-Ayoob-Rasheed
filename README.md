@@ -4,12 +4,11 @@
 🤖 IoT Projects Enthusiast
 📱 Learning Flutter  
 
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-blue)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-green)
 ![C++](https://img.shields.io/badge/C++-blue)
-![Flutter](https://img.shields.io/badge/Flutter-blue)
+![Flutter](https://img.shields.io/badge/Flutter-purple)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
 
 
 ## 🛠️ Skills
