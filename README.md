@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayoob
 
-<!--
-**Mr-Ayoob-Rasheed/Mr-Ayoob-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Embedded Systems Enthusiast  
+🤖 IoT Projects Enthusiast
+📱 Learning Flutter  
 
-Here are some ideas to get you started:
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+
+## 🛠️ Skills
+- C / C++ & Assembly
+- Arduino, ESP32, MSP430
+- Sensors & Motor Control
+- KiCad & Code Composer Studio
+- Flutter / UI Development
+- Git / GitHub
+
+<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+
