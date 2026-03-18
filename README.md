@@ -1,23 +1,25 @@
-# Hi there 👋 I'm Ayoob
+<!-- Header Section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-💻 Embedded Systems Enthusiast  
-🤖 IoT Projects Enthusiast
-📱 Learning Flutter  
+<!-- Profile Bio -->
+### Hi there 👋, I'm Ayoob Rasheed
+I'm a passionate developer exploring **Flutter**, **Embedded Systems**, and **IoT**.  
 
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-green)
-![C++](https://img.shields.io/badge/C++-blue)
-![Flutter](https://img.shields.io/badge/Flutter-purple)
+<!-- Badges -->
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
+<!-- Animated Current Learning Section -->
+<details>
+<summary>🌱 Currently Learning</summary>
 
+- **Flutter** – Building mobile apps with beautiful UIs  
+- **Embedded Systems & IoT** – Microcontrollers, sensors, and real-time projects
 
+</details>
 
-## 🛠️ Skills
-- C / C++ & Assembly
-- Arduino, ESP32, MSP430
-- Sensors & Motor Control
-- KiCad & Code Composer Studio
-- Flutter / UI Development
-- Git / GitHub
-
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
-
+<!-- Connect Section -->
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
