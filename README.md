@@ -98,10 +98,7 @@
   </a>
 </p>
 
-<!-- Motivational quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
 <!-- Footer Wave -->
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,50:0175C2,100:02569B&height=150&section=footer"/>
+</p>
