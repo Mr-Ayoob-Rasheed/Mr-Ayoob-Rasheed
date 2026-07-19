@@ -4,7 +4,7 @@
 <!-- Typing animation intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayoob+%F0%9F%91%8B;Flutter+Developer+%F0%9F%92%99;Embedded+Systems+%26+IoT+Enthusiast+%F0%9F%94%A7;Turning+Ideas+Into+Apps+%26+Circuits+%E2%9A%A1;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=It%27s+Ayoob+Rasheed+%F0%9F%91%8B;Flutter+Developer+%F0%9F%92%99;Embedded+Systems+%26+IoT+Enthusiast+%F0%9F%94%A7;Turning+Ideas+Into+Apps+%26+Circuits+%E2%9A%A1;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
