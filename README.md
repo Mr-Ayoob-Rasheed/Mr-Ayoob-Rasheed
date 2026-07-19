@@ -64,12 +64,12 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ayoob-Rasheed&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <!-- Snake contribution animation (requires a GitHub Action to generate the SVG in your repo) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Mr-Ayoob-Rasheed/Mr-Ayoob-Rasheed/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -77,13 +77,13 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/ayoob-rasheed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Mr-Ayoob-Rasheed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ayoobrasheed3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
