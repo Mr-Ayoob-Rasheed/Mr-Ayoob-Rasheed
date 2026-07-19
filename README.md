@@ -15,8 +15,9 @@
   <img src="https://img.shields.io/github/followers/Mr-Ayoob-Rasheed?label=Followers&style=for-the-badge&color=00599C" alt="followers"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+</p>
 
 ### 🚀 About Me
 
