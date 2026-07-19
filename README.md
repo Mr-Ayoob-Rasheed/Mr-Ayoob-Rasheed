@@ -1,6 +1,7 @@
 <!-- Header Wave -->
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:00599C&height=220&section=header&text=Ayoob%20Rasheed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Dev%20%7C%20Embedded%20Systems%20%7C%20IoT%20Explorer&descAlignY=55&descSize=18"/>
-
+</p>
 <!-- Typing animation intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
