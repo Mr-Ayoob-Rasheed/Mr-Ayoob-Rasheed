@@ -32,7 +32,9 @@
 
 <br clear="both"/>
 
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -51,7 +53,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -68,7 +72,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mr-Ayoob-Rasheed&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+</p>
 
 ### 📈 Contribution Graph
 
@@ -81,7 +87,9 @@
   <img src="https://raw.githubusercontent.com/Mr-Ayoob-Rasheed/Mr-Ayoob-Rasheed/output/github-contribution-grid-snake.svg"/>
 </p>
 
+<p align=center>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:00599C&height=3&section=header"/>
+</p>
 
 ### 📫 Connect with Me
 
